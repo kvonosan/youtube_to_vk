@@ -1,0 +1,14 @@
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\bin\Debug\youtubetovk.exe.config
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\bin\Debug\youtubetovk.exe
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\bin\Debug\youtubetovk.pdb
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.csprojResolveAssemblyReference.cache
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\MainWindow.g.cs
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\App.g.cs
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk_MarkupCompile.cache
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk_MarkupCompile.lref
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\MainWindow.baml
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.g.resources
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.Properties.Resources.resources
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.csproj.GenerateResource.Cache
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.exe
+c:\users\виктор\documents\visual studio 2015\Projects\youtubetovk\youtubetovk\obj\Debug\youtubetovk.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="youtubetovk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:youtubetovk"
+        mc:Ignorable="d"
+        Title="youtubetovk version 2 (Авто постинг из ютуба в вконтакте)" Width="1100" WindowStartupLocation="CenterScreen" WindowState="Maximized" MinWidth="1100" MinHeight="514" Height="514">
+    <Grid>
+        <Grid Margin="0,0,0,100">
+            <WebBrowser x:Name="browser" Margin="0" Grid.IsSharedSizeScope="True"/>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="287*"/>
+                <ColumnDefinition Width="587*"/>
+            </Grid.ColumnDefinitions>
+            <Button Click="button_Click" x:Name="button" Content="Загрузить ссылки с youtube" Margin="12,0,167,50" VerticalAlignment="Bottom" Height="35" Width="180" />
+            <Button Click="button1_Click" x:Name="button1" Content="Запостить ролики на завтра" Margin="10,0,165,10" VerticalAlignment="Bottom" Height="35" Width="180" IsEnabled="False"/>
+            <TextBox x:Name="log" VerticalAlignment="Bottom" Height="83" Margin="214,0,10,10" HorizontalAlignment="Center" Width="858" BorderThickness="1" TextChanged="log_TextChanged" Grid.ColumnSpan="2"/>
+        </Grid>
+    </Grid>
+</Window>
